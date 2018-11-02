@@ -1,0 +1,10 @@
+名称
+printf
+
+描述
+server-u ftp 服务中的神秘代码
+nc 106.2.25.7 8001
+
+flag格式：flag{xxx}
+
+解题链接： http://ctf5.shiyanbar.com/overflow/printf/printf.rar

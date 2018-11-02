@@ -1,0 +1,6 @@
+名称
+BAT公司信息查询系统
+
+描述
+flag格式:ctf{一句话密码}
+解题链接： http://ctf5.shiyanbar.com/misc/5/foot.php

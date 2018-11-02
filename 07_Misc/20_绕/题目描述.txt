@@ -1,0 +1,10 @@
+名称
+绕
+
+描述
+也就是脑筋急转弯
+hint：把出题人的名字拿去加密，233
+
+格式：ctf{}
+
+解题链接： http://ctf5.shiyanbar.com/misc/page

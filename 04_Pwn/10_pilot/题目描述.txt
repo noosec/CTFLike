@@ -1,0 +1,10 @@
+名称
+pilot
+
+描述
+栈溢出能做什么呢
+nc 106.2.25.7 8003
+
+flag格式：flag{xxx}
+
+解题链接： http://ctf5.shiyanbar.com/overflow/pilot/pilot.rar

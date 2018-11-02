@@ -1,0 +1,6 @@
+名称
+加减乘除
+
+描述
+一段linux/x86下删除指定文件的汇编代码
+解题链接： http://ctf5.shiyanbar.com/overflow/1/

@@ -1,0 +1,10 @@
+名称
+ropbaby
+
+描述
+学ROP首先从baby开始学起
+nc 106.2.25.7 8004
+
+flag格式：flag{xxx}
+
+解题链接： http://ctf5.shiyanbar.com/overflow/ropbaby/ropbaby.rar
